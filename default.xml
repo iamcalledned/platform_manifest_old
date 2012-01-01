@@ -193,6 +193,7 @@
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
+  <project path="packages/apps/Superuser" name="Superuser" remote="ned" revision="master"  />
   <project path="packages/experimental" name="platform/packages/experimental" />
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
@@ -217,6 +218,7 @@
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="platform/system/core" />
   <project path="system/extras" name="platform/system/extras" />
+  <project path="system/extras/su" name="platform/system/extras/su" remote="ned" revision="master"  />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
