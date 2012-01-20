@@ -1,9 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-[remote "origin"]
-	url = git://github.com/iamcalledned/platform_manifest.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
-[branch "default"]
-	remote = origin
-	merge = aosp
