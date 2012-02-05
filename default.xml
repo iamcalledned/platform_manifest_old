@@ -5,6 +5,9 @@
            fetch="https://android.googlesource.com/" />
   <remote name="ned"
            fetch="git://github.com/iamcalledned/" /> 
+  <remote name="pete"
+           fetch="git://github.com/peteralfonso/" /> 
+           
   <default revision="refs/tags/android-4.0.3_r1"
            remote="aosp"
            sync-j="6" />
