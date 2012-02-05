@@ -223,7 +223,7 @@
   <project path="system/extras/su" name="platform_system_extras_su" remote="ned" revision="master" />
   <project path="system/vold" name="platform/system/vold" />
   <project path="vendor" name="platform_vendor" remote="ned" revision="master" />
-  <project path="frameworks/compile/slang" name="platform_frameworks_compile_slang" remote="ned" />
+  <project path="frameworks/compile/slang" name="platform_frameworks_compile_slang" remote="ned" revision="ics" />
   
   
 </manifest>
