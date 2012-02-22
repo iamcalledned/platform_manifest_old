@@ -8,6 +8,10 @@
   <remote name="pete"
            fetch="git://github.com/peteralfonso/" /> 
            
+  <default 	
+         remote="aosp"
+         sync-j="6" />
+           
 
 
   <project path="build" name="platform_build" remote="ned" revision="master">
