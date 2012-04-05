@@ -6,13 +6,13 @@
 	   review="https://android-review.googlesource.com/" />
            
            
-  <remote name="ned"
-           fetch="git://github.com/iamcalledned/" /> 
- 
-           
+       
   <default revision="master"
            remote="aosp"
            sync-j="4" />
+
+  <remote name="ned"
+           fetch="git://github.com/iamcalledned/" /> 
 
 
   <project path="build" name="platform_build" remote="ned" revision="master">
