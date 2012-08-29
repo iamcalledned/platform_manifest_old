@@ -2,12 +2,11 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch=".."
-           review="https://android-review.googlesource.com/" />
+           fetch="https://android.googlesource.com/" />
   <remote name="ned"
            fetch="git://github.com/iamcalledned/" /> 
 
-  <default revision="master"
+  <default revision="refs/tags/android-4.1.1_r4"
            remote="aosp"
            sync-j="4" />
 
